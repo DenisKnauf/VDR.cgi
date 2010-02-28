@@ -1,0 +1,1 @@
+require 'vdr/vdr'
